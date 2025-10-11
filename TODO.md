@@ -1,0 +1,3 @@
+- [x] Criar o arquivo Lista0/divisibilidade.c com o código para verificar divisibilidade
+- [x] Compilar o programa usando GCC
+- [ ] Testar o programa executando-o com entradas de exemplo

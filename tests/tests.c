@@ -2,11 +2,16 @@
 #include <stdlib.h>
 
 int main(){
-    int n1 = 11;
-    int n2 = 2;
-    int resto = n1 % n2;
-
-    printf("%d", resto);
-
-    return 0;
+    int errors = 999;
+    if(errors != 0){
+        printf("Preciso de mais café.\n");
+    }    
 }
+
+
+
+
+
+
+
+

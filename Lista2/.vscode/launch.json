@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "/response_4cd0448a-18d3-4523-932c-e9d478ad0c6b",
-      "program": "/response_4cd0448a-18d3-4523-932c-e9d478ad0c6b/build/Debug/outDebug",
+      "cwd": "e:/IFBA 1 Semestre/Algoritmos/Lista2",
+      "program": "e:/IFBA 1 Semestre/Algoritmos/Lista2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

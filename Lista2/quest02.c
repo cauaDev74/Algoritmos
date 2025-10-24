@@ -1,12 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 int main(){
-    int a,b,h;
+    float a,b,h;
     printf("Insira cateto A: ");
-    scanf("%d", &a);
+    scanf("%f", &a);
     printf("Insira cateto B: ");
-    scanf("%d", &b);
+    scanf("%f", &b);
 
-    h = (a*a)+(b*b);
-    printf("Hipotenusa: %d\n", h);
+    h = sqrt((pow(a,2))+(pow(b,2)));
+    printf("Hipotenusa: %.1f\n", h);                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 } 

@@ -14,5 +14,6 @@ int main(){
     } else if (b < a){
         printf("%.1f %.1f\n",b,a);
     }
-    
+    system("pause");
+    return 0;
 }

@@ -25,8 +25,13 @@ int main() {
         printf("Adultos\n");
         break;
     default:
+        if(insiraIdade < 5){
+            printf("Não possui idade suficiente para participar.\n");
+        }else if(insiraIdade > 18){
+            printf("Adultos\n");
+        }
         break;
     }
-
-
+    system("pause");
+    return 0;
 }
